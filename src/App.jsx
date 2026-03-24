@@ -1,13 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router";
 
 import Nav from "./assets/componentes/navbar";
-import Contact from "./assets/pages/CONTACT";
+import Contact from "./assets/pages/Contact";
 import Home from "./assets/pages/Home";
 import MaterialDetail from "./assets/componentes/Details";
 import ProductoList from "./assets/pages/Productos";
 import ServisDetail from "./assets/componentes/DetailsServis";
 import Footer from "./assets/componentes/footer";
-import Servicio from "./assets/pages/SERVICIOS";
+import Servicio from "./assets/pages/Servicios";
 import About from "./assets/pages/About";
 export default function App() {
   return (
